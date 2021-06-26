@@ -1,5 +1,6 @@
-package com.nyash.rooms.roomservice;
+package com.nyash.rooms.roomservice.repository;
 
+import com.nyash.rooms.roomservice.entity.Room;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
