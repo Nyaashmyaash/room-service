@@ -1,4 +1,4 @@
-package com.nyash.rooms.roomservice.entity;
+package com.nyash.rooms.roomservice;
 
 import javax.persistence.*;
 
